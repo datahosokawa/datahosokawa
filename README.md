@@ -1,11 +1,11 @@
 
 
 </p align="center">
-<img src="https://i.imgur.com/nSZtljv.png" />
+<img src="https://i.imgur.com/nSZtljv.png" />  
 
 <p align="center">
  
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> <img src="https://i.gifer.com/YCZM.gif" /> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Em busca da minha primeira oportunidade como: Data Analytics, 
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
