@@ -5,13 +5,15 @@
 
 <p align="center">
  
-<h3> <img src="https://i.gifer.com/YCZM.gif" /> &nbsp;Sobre mim </h3>
-
-<h2 align="center">Technology Stack <img src="https://i.gifer.com/YCZM.gif" width="50"></h2>
-- 🤔 &nbsp; Em busca da minha primeira oportunidade como: Data Analytics, 
+<h3> 	:grinning: &nbsp;Sobre mim </h3>
+ 
+- 👦 &nbsp; Renan Reginato Hosokawa
+- 📅 &nbsp; 27 anos
+- 📧 &nbsp; renan.hosokawa95@gmail.com
+- 📍 Presidente Prudente - SP
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 💼 &nbsp; Em busca de uma oportunidade como: Analista de Dados, Analista de BI, Engenheiro de Dados
+
 
 <p align="left">
  
