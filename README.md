@@ -1,4 +1,10 @@
 
+
+</p align="center">
+<img src="https://i.imgur.com/jut2x0A.png" />
+
+<p align="center">
+ 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Em busca da minha primeira oportunidade como: Data Analytics, 
