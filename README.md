@@ -3,7 +3,7 @@
 </p align="center">
 <img src="https://i.imgur.com/nSZtljv.png" />  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="left">
+<p align="center">
  
   <a href="https://www.linkedin.com/in/renanhosokawa/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
