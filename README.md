@@ -7,6 +7,7 @@
  
 <h3> <img src="https://i.gifer.com/YCZM.gif" /> &nbsp;Sobre mim </h3>
 
+<h2 align="center">Technology Stack <img src="https://i.gifer.com/YCZM.gif" width="50"></h2>
 - 🤔 &nbsp; Em busca da minha primeira oportunidade como: Data Analytics, 
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
