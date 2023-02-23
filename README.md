@@ -18,16 +18,16 @@
 <p align="left">
  
   <a href="https://www.linkedin.com/in/renanhosokawa/" alt="Linkedin">
-   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/></a>
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
   <a href="https://whatsa.me/5518996698522/?t=Ol%C3%A1,%20Renan." alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://whatsa.me/5518996698522/?t=Ol%C3%A1,%20Renan."/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
   <a href="https://www.facebook.com/RenanHosokawa" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/RenanHosokawa"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/rnnhosokawa" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rnnhosokawa/"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>  
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
