@@ -1,7 +1,7 @@
 
 
 </p align="center">
-<img src="https://imgur.com/cface06e-48be-41c1-b239-3c319193e0b0" />
+<img src="https://i.imgur.com/nSZtljv.png" />
 
 <p align="center">
  
