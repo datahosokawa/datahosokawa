@@ -3,19 +3,7 @@
 </p align="center">
 <img src="https://i.imgur.com/nSZtljv.png" />  
 
-<p align="center">
- 
-<h3> &nbsp;Sobre mim </h3>
- 
-- 👦 &nbsp; Renan Reginato Hosokawa
-- 📅 &nbsp; 27 anos
-- 📧 &nbsp; renan.hosokawa95@gmail.com
-- 📍  &nbsp; Presidente Prudente - SP
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
-- 💼 &nbsp; Em busca de uma oportunidade como: Analista de Dados, Analista de BI, Engenheiro de Dados
-
-
-<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="left">
  
   <a href="https://www.linkedin.com/in/renanhosokawa/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
@@ -29,6 +17,21 @@
   <a href="https://www.instagram.com/rnnhosokawa" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>  
+
+
+<p align="center">
+ 
+<h3> &nbsp; Sobre mim </h3>
+ 
+- 👦 &nbsp; Renan Reginato Hosokawa
+- 📅 &nbsp; 27 anos
+- 📧 &nbsp; renan.hosokawa95@gmail.com
+- 📍  &nbsp; Presidente Prudente - SP
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 💼 &nbsp; Em busca de uma oportunidade como: Analista de Dados, Analista de BI, Engenheiro de Dados
+
+
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
