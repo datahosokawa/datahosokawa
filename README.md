@@ -35,7 +35,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<p align="center"> &nbsp; </p>
+<p align="center"></p>
 
 **Linguagens de Programação e Bibliotecas**
 
@@ -47,6 +47,7 @@
   ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
   ![Folium](https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white)
   
+  <p align="center"> &nbsp; </p>
         
 **Ferramentas de Análise e Engenharia de Dados**
 
@@ -58,6 +59,7 @@
   ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
   ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
   
+  <p align="center"> &nbsp; </p>
   
   **Front-end e Design**
   
@@ -67,11 +69,15 @@
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   
+  <p align="center"> &nbsp; </p>
+  
 **DevOps**
 
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<p align="center"> &nbsp; </p>
 
 
 **Ferramentas de Desenvolvimento**
