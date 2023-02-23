@@ -35,7 +35,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<p align="center"></p>
+<p align="center"> &nbsp; </p>
 
 **Linguagens de Programação e Bibliotecas**
 
