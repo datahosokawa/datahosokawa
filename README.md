@@ -25,7 +25,7 @@
 
 **Aplicações e Dados**
 
-  ![Power BI](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white))
+  ![Power BI]([https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white))
   ![Python](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Pandas](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![APIs](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
