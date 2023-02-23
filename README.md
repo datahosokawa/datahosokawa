@@ -26,7 +26,7 @@
 - 👦 &nbsp; Renan Reginato Hosokawa
 - 📅 &nbsp; 27 anos
 - 📧 &nbsp; renan.hosokawa95@gmail.com
-- 📍  &nbsp; Presidente Prudente - SP
+- 🗺️  &nbsp; Presidente Prudente - SP
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 💼 &nbsp; Em busca de uma oportunidade como: Analista de Dados, Analista de BI, Engenheiro de Dados
 
