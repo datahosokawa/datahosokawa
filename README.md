@@ -1,7 +1,7 @@
 
 
 </p align="center">
-<img src="https://i.imgur.com/jut2x0A.png" />
+<img src="https://kp-blog.s3.amazonaws.com/wp-content/uploads/2019/04/04112601/big-data-o-que-e-para-que-serve-como-funciona-exemplos.jpg" />
 
 <p align="center">
  
