@@ -18,7 +18,7 @@
 <p align="left">
  
   <a href="https://www.linkedin.com/in/renanhosokawa/" alt="Linkedin">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png/"></a>
+   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/></a>
 
   <a href="https://whatsa.me/5518996698522/?t=Ol%C3%A1,%20Renan." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://whatsa.me/5518996698522/?t=Ol%C3%A1,%20Renan."/></a>
