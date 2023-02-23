@@ -36,12 +36,11 @@
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![PostGree SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Talend](	https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![CSS](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Photoshop](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Google Tag](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Google Analytics](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Facebook ADS](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+  ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+
         
 
 **Utilidades**
