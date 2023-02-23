@@ -36,7 +36,7 @@
         
 **Ferramentas de Análise e Engenharia de Dados**
 
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+  ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=black)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![PostGree SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,5 +75,5 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
 
