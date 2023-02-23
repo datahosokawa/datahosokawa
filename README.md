@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Em busca da minha primeira oportunidade como: Data Analytics, 
@@ -13,13 +11,13 @@
   <a href="https://www.linkedin.com/in/renanhosokawa/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanhosokawa/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://whatsa.me/5518996698522/?t=Ol%C3%A1,%20Renan." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://whatsa.me/5518996698522/?t=Ol%C3%A1,%20Renan."/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/RenanHosokawa" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/RenanHosokawa"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/rnnhosokawa" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rnnhosokawa/"/></a>
 </p>  
 
@@ -27,16 +25,23 @@
 
 **Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Power BI]([https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white))
+  ![Python](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Pandas](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![APIs](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Matplotlib](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![DAX](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Web Scraping](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![SQL](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![SQL Server](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Talend](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![HTML5](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![CSS](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Photoshop](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Google Tag](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Google Analytics](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Facebook ADS](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+        
 
 **Utilidades**
 
